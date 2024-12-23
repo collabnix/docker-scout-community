@@ -60,7 +60,8 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [Identifying Container Image Vulnerabilities with Docker Scout](https://packagemain.tech/p/identifying-container-image-vulnerabilities) ![badge](https://img.shields.io/badge/-new-green)
 - [How to detect, fix and prevent container vulnerabilities with Inspector and Docker Scout](https://www.tecracer.com/blog/2024/02/from-fragile-to-formidable-how-to-detect-fix-and-prevent-container-vulnerabilities-with-inspector-and-docker-scout.html)
 - [Docker Scout Commands](https://meghasharma.hashnode.dev/docker-scout-commands-part-1?ref=twitter-share)
-- [Docker Scout Security for your Containers images](https://mountainss.wordpress.com/2024/08/25/docker-scout-security-for-your-containers-images/) ![badge](https://img.shields.io/badge/-new-green)
+- [Docker Scout Security for your Containers images](https://mountainss.wordpress.com/2024/08/25/docker-scout-security-for-your-containers-images/)
+- [Enhancing Container Security with Docker Scout and Secure Repositories](https://www.docker.com/blog/enhancing-container-security-with-docker-scout-and-secure-repositories/) ![badge](https://img.shields.io/badge/-new-green)
 
 
 # Tutorials
